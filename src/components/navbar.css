@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Paddings from left and right */
+    align-items: center;
+    background-color: aquamarine;
+    padding: 10px;
+  }
+  
+  .left-element {
+    margin-right: auto; /* Closing the left */
+  }
+  
+  .right-elements {
+    display: flex;
+  }
+  
+  .element {
+    margin-left: 10px;
+    border-right: 1px solid white;
+    padding-right: 10px;
+  }
+
+  .element:first-child{
+     margin-left: 0;
+  }
+  
+  .element:last-child {
+    margin-right: 10px; /* Padding from left side */
+    border-right: none;
+  }
+  
