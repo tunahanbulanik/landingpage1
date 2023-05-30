@@ -48,7 +48,7 @@ export default function body() {
           {showMore? (
             <div className="more-info">
             <p>
-            Maltese Bulldog, Caucassian Havhav ve Atlantic Mugodow gibi köpek türleri, sevimli ve sadık evcil hayvanlar arasında yer alır. Bu köpekler, oyuncu ve enerjik doğalarıyla bilinirler. Onlarla vakit geçirmek, keyifli anlar yaşamanıza olanak sağlar. Yweyweyweyw cinsi köpekler ise nadir rastlanan bir türdür. Bu köpekler, benzersiz görünümleri ve sevecen kişilikleriyle dikkat çekerler. Onlarla bir arada olmak, sevgi dolu anılar biriktirmenizi sağlar
+            Maltese Bulldog,  AA Caucassian Havhav ve Atlantic Mugodow gibi köpek türleri, sevimli ve sadık evcil hayvanlar arasında yer alır. Bu köpekler, oyuncu ve enerjik doğalarıyla bilinirler. Onlarla vakit geçirmek, keyifli anlar yaşamanıza olanak sağlar. Yweyweyweyw cinsi köpekler ise nadir rastlanan bir türdür. Bu köpekler, benzersiz görünümleri ve sevecen kişilikleriyle dikkat çekerler. Onlarla bir arada olmak, sevgi dolu anılar biriktirmenizi sağlar
             </p>
             </div>
           ) : (
